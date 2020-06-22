@@ -1,3 +1,4 @@
+var http = require('http');
 const express = require('express'); //Thêm module express vào project.
 const app = express(); //Khởi tạo một app mới sử dụng module express
 // const port = 3000;  //tên cổng để chạy ứng dụng NodeJS 
