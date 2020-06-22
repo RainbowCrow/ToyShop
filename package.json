@@ -1,7 +1,6 @@
 {
   "name": "laygocnodejs",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "dependencies": {
     "consolidate": "^0.15.1",
@@ -22,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/RainbowCrow/ToyShop/issues"
   },
-  "homepage": "https://github.com/RainbowCrow/ToyShop#readme"
+  "homepage": "https://github.com/RainbowCrow/ToyShop#readme",
+  "description": ""
 }
